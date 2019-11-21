@@ -30,6 +30,6 @@ public class Main {
         GenericsDemo<Integer> obj = new GenericsDemo<>();
         //obj.show();
         obj.demo(new ArrayList<Number>());
-
+Hello
     }
 }
